@@ -1,42 +1,41 @@
-# UX DIU Toolkit
+# Práctica 1 de DIU
 
-Herramientas en HTML5 para creación de: 
-    - 2 Personas 
-    - 2 User Journey Map 
-    
-Version online: https://mgea.github.io/UX-DIU-Toolkit/index.html
-Repositorio en: https://github.com/mgea/UX-DIU-Toolkit
+## Autor: Francisco José Cotán López
+### Grupo: DIU3.Bolargo
 
-Modificaciones:
+#### Memoria y Explicación de los contenidos de la Práctica 1
 
-V.1.0 Feb,12 2020
+**Aclaración:** Si prefiere leer el README en pdf, vaya a [PDF README](./pdf/README.pdf)
 
-V.1.1 Feb, 26 2020 (se añade el nombre de grupo  que aparece en indexP.html y indexJ.html en plantillas Persona.js y Journey.js)
+En la carpeta /img está todas las imágenes que se han usado para las personas ficticias creadas.
+Dichas imágenes las he tomado de [Unsplash](https://unsplash.com/) y no tienen Copyright (son de libre uso).
 
+#### Personas
 
+Las personas pueden encontrarse en la carpeta /personas.
+Las personas creadas han sido creadas con la herramienta [Xtension](https://xtensio.com/) con su respectiva plantilla tomada de la aplicación (se ha exportado como imagen).
 
-Se deben crear *dos personas ficticias*. (http://www.uxforthemasses.com/personas/) que puedan ser usuarios interesados en las actividades que se ofertan en esa ciudad. Información acerca de cómo construir Personas Ficticias: http://www.ux-lady.com/diy-user-personas/. Hay herramientas (fremium) para crear Personas ficticias: https://xtensio.com/how-to-create-a-persona/. Con https://randomuser.me podemos  obtener imágenes/features de personas aleatorias.
+#### Journey Map
 
+Las Journey Map han sido creadas con la herramienta [UXPressia](https://uxpressia.com/) con su respectiva plantilla tomada de la misma aplicación.
+Los resultados están exportados como imágenes porque la opción de PDF era de pago.
 
-Incluir *dos mapas de experiencia del usuario* (User Journey Experience Map) uno para cada usuario donde se describa la interacción de un usuarios con el interfaz para realizar una tarea.  Más información de cómo abordar una mapa de experiencia de usuario: http://theuxreview.co.uk/user-journeys-beginners-guide/. Se puede usar la herramienta online: https://uxpressia.com/ o bien la plantilla http://www.burokoos.com/assets/uploads/2012/04/koos_customer_journey_mapping.pdf 
-https://uxpressia.com/templates/cjm-for-website-visitor 
+#### Otros ficheros
 
+Tanto este README como el Competitive Analysis han sido realizados en [Markdown](https://markdown.es/).
+El Competitive Analysis puede verse en la carpeta /md
+No obstantes, estos ficheros han sido convertidos a PDF en esta página: [Markdown to PDF](https://www.markdowntopdf.com/) y pueden verse en la carpeta /pdf.
 
-Alternativas:
+Por último, la Usability Review está en la carpeta /excel.
 
-- editor online XTENSIO para crear Personas ficticias: https://xtensio.com/how-to-create-a-persona/
-- herramienta online: https://uxpressia.com/
-- plantillas: 
+#### Repositorio en GitHub
 
+**Aclaración: He creado mis propias plantillas con las herramientas anteriormente discutidas porque leí primero el guión de Prado que GitHub. No obstante, contempla totalmente todos los casos estudiados en la plantilla y he seguido las prácticas de los enlaces que se nombran en los temas y las prácticas de la asignatura.**
 
-Tareas: 
+```
+    URL del fork de GitHub: https://github.com/iscoct/UX-DIU-Toolkit
+```
 
- - Incluir información en ficheros personas.js / Journey.js
- - Preparado para 2 plantillas
- - Se debe añadir información del equipo
+Puede acceder desde aquí directamente: [UX-DIU-Toolkit](https://github.com/iscoct/UX-DIU-Toolkit)
 
-ToDo: 
- - Configurar al movil
- - E/S con JSON
-
-
+La estructura de directorios es la misma tanto en PRADO como en GitHub.
