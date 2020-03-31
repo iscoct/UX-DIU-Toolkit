@@ -32,6 +32,6 @@ Por último, la **Usability Review** está en la carpeta **/excel**.
 
 **Aclaración: He creado mis propias plantillas con las herramientas anteriormente discutidas porque leí primero el guión de Prado que GitHub. No obstante, contempla totalmente todos los casos estudiados en la plantilla y he seguido las prácticas de los enlaces que se nombran en los temas y las prácticas de la asignatura.**
 
-`URL del fork de GitHub: `
+`URL del fork de GitHub: (DIU Toolkit)[https://github.com/iscoct/UX-DIU-Toolkit]`
 
 La estructura de directorios es la misma tanto en PRADO como en GitHub.
